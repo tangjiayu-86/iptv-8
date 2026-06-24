@@ -24,6 +24,8 @@ https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8
 https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
 #EXTINF:-1 tvg-id="ChivacoaTVInternacional.ve@SD",Chivacoa TV Internacional (720p)
 https://live20.bozztv.com/akamaissh101/ssh101/1234chivacoa/chunks.m3u8
+#EXTINF:-1 tvg-id="DuacaVision.ve@SD",DuacaVision
+https://vs20.live.opencaster.com/duacavision_092f3447/index.m3u8
 #EXTINF:-1 tvg-id="EXCTV.ve@SD",Explosión Creativa (720p) [Not 24/7]
 https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
 #EXTINF:-1 tvg-id="FortunaTV.ve@SD",Fortuna TV (1080p)
@@ -33,7 +35,7 @@ https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8
 #EXTINF:-1 tvg-id="GrandeTV.ve@SD",Grande TV (720p) [Not 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8
 #EXTINF:-1 tvg-id="GuaroTV.ve@SD",Guaro TV (720p)
-https://streamtv.intervenhosting.net:3592/hybrid/play.m3u8
+https://stream.guarotv.net:3592/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="InterTV.ve@SD",interTV (1080p)
 https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="IslaTV.ve@SD",Isla TV (480p)
@@ -52,7 +54,7 @@ https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
 https://e1.viginet.vectormax.com:5210/quickstart/114-934-21/index.m3u8
 #EXTINF:-1 tvg-id="MonagasVision.ve@SD",Monagas Visión (720p) [Not 24/7]
 https://cloud2.streaminglivehd.com:1936/monagasvision-2/monagasvision-2/playlist.m3u8
-#EXTINF:-1 tvg-id="NortenaTv.ve@HD",Norteña TV
+#EXTINF:-1 tvg-id="NortenaTv.ve@HD",Norteña TV (576p)
 https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8
 #EXTINF:-1 tvg-id="OasisTelevision.ve@SD",Oasis Televisión (720p) [Not 24/7]
 http://vcp1.myplaytv.com/oasistv/oasistv/playlist.m3u8
@@ -136,5 +138,25 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 #EXTINF:-1 tvg-id="VPItv.ve@SD",VPItv (1080p)
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
-#EXTINF:-1 tvg-id="DuacaVision.ve@SD",DuacaVision
-https://vs20.live.opencaster.com/duacavision_092f3447/index.m3u8
+#EXTINF:-1 tvg-id="TAMTV.ve@SD",TAM TV
+https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="CanalI.ve@SD",Canal I (1080p)
+https://streaming.canal-i.com/canal-i/live/master.m3u8
+#EXTINF:-1 tvg-id="MAXAnime.ve@SD",MAX Anime (1080p)
+https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Globovision.ve@SD",Globovision (576p)
+http://181.78.8.199:8000/play/a09k/index.m3u8
+#EXTINF:-1 tvg-id="MeridianoTV.ve@SD",Meridiano TV (576p)
+http://181.78.8.199:8000/play/a0fr/index.m3u8
+#EXTINF:-1 tvg-id="Televen.ve@SD",Televen (576p)
+http://181.78.8.199:8000/play/a09j/index.m3u8
+#EXTINF:-1 tvg-id="Venevision.ve@SD",Venevision (576p)
+http://181.78.8.199:8000/play/a0if/index.m3u8
+#EXTINF:-1 tvg-id="VenezolanadeTelevision.ve@SD",Venezolana de Television (576p)
+http://181.78.8.199:8000/play/a091/index.m3u8
+#EXTINF:-1 tvg-id="LaTeleTuya.ve@SD",La Tele Tuya (576p)
+http://181.78.8.199:8000/play/a0fs/index.m3u8
+#EXTINF:-1 tvg-id="CanalDiplomatico.ve@SD",Canal Diplomatico
+https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8
+#EXTINF:-1 tvg-id="Telesur.ve@SD",Telesur (576p)
+https://edgectc.com/TELESUR/index.m3u8
