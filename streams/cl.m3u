@@ -189,8 +189,6 @@ https://multimedia.fortalezatv.cl/video/video.m3u8
 https://v2.tustreaming.cl/frecuencia7/index.m3u8
 #EXTINF:-1 tvg-id="FunBox.cl@SD",FunBox
 http://186.148.196.100:8000/play/a00d
-#EXTINF:-1 tvg-id="FX.cl@SD",FX (720p)
-http://138.121.15.230:9002/FX/index.m3u8
 #EXTINF:-1 tvg-id="GenialTV.cl@SD",Genial TV (720p)
 https://v1.tustreaming.cl/genialtv/index.m3u8
 #EXTINF:-1 tvg-id="Girovisual.cl@SD",Girovisual (720p)
@@ -580,9 +578,3 @@ https://iptv.bitred.cl/mega/index.m3u8
 https://tv-mgmt.gtd.cl/bpk-tv/LARED/default/index.m3u8
 #EXTINF:-1 tvg-id="LaRed.cl@SD",La Red (720p)
 https://iptv2.intersurtv.cl/LA_RED/index.m3u8
-#EXTINF:-1 tvg-id="EnerGeek.cl@SD",EnerGeek (1080p)
-https://iptv2.cronet.cl/ENERGEEK_RETRO/index.m3u8
-#EXTINF:-1 tvg-id="EnerGeekFAN.cl@SD",EnerGeek FAN (1080p)
-https://iptv2.cronet.cl/ENERGEEK_FAN/index.m3u8
-#EXTINF:-1 tvg-id="EnerGeekRadio.cl@SD",EnerGeek Radio (1080p)
-https://iptv2.cronet.cl/ENERGEEK_RADIO/index.m3u8
